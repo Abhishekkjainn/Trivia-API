@@ -1,0 +1,14 @@
+{
+  "name": "trivial",
+  "version": "1.0.0",
+  "description": "A Quiz/Trivia API which can be used by Developers to Create a Trivial Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhdii",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

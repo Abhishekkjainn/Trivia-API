@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "id": "cat1",
+      "name": "Geography",
+      "description": "Questions related to countries, capitals, continents, and geographical features.",
+      "quizCount": 12,
+      "icon": "🌍"
+    },
+    {
+      "id": "cat2",
+      "name": "Science",
+      "description": "Quizzes covering physics, chemistry, biology, and general science.",
+      "quizCount": 15,
+      "icon": "🔬"
+    },
+    {
+      "id": "cat3",
+      "name": "History",
+      "description": "Explore events, significant figures, and milestones from the past.",
+      "quizCount": 10,
+      "icon": "📜"
+    },
+    {
+      "id": "cat4",
+      "name": "Mathematics",
+      "description": "Test your knowledge in algebra, geometry, and basic arithmetic.",
+      "quizCount": 8,
+      "icon": "➗"
+    },
+    {
+      "id": "cat5",
+      "name": "Technology",
+      "description": "Quizzes on programming, web development, and technological advancements.",
+      "quizCount": 20,
+      "icon": "💻"
+    },
+    {
+      "id": "cat6",
+      "name": "Sports",
+      "description": "Questions about sports, players, teams, and championships.",
+      "quizCount": 5,
+      "icon": "⚽"
+    },
+    {
+      "id": "cat7",
+      "name": "Literature",
+      "description": "Dive into books, authors, and literary works from around the world.",
+      "quizCount": 7,
+      "icon": "📚"
+    },
+    {
+      "id": "cat8",
+      "name": "Art",
+      "description": "Quizzes focusing on famous artworks, artists, and art history.",
+      "quizCount": 6,
+      "icon": "🎨"
+    },
+    {
+      "id": "cat9",
+      "name": "Entertainment",
+      "description": "Questions about movies, music, and pop culture.",
+      "quizCount": 18,
+      "icon": "🎬"
+    },
+    {
+      "id": "cat10",
+      "name": "Biology",
+      "description": "Explore topics related to the living world, from animals to genetics.",
+      "quizCount": 9,
+      "icon": "🧬"
+    },
+    {
+      "id": "cat11",
+      "name": "Current Affairs",
+      "description": "Stay updated with questions about recent news and events.",
+      "quizCount": 14,
+      "icon": "📰"
+    },
+    {
+      "id": "cat12",
+      "name": "Astronomy",
+      "description": "Questions about stars, planets, galaxies, and the universe.",
+      "quizCount": 5,
+      "icon": "🌌"
+    },
+    {
+      "id": "cat13",
+      "name": "Food and Drinks",
+      "description": "Quizzes about cuisines, beverages, and culinary arts.",
+      "quizCount": 4,
+      "icon": "🍔"
+    },
+    {
+      "id": "cat14",
+      "name": "General Knowledge",
+      "description": "A mix of questions from various topics to test your overall knowledge.",
+      "quizCount": 25,
+      "icon": "🧠"
+    }
+  ]
+}

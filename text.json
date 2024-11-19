@@ -1,0 +1,869 @@
+{
+  "quizzes": [
+    {
+      "id": "geo1",
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Hamburg", "Munich", "Frankfurt"],
+      "correctAnswer": 0,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "World Capitals",
+      "points": 10
+    },
+    {
+      "id": "geo2",
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Medium",
+      "topic": "Rivers",
+      "points": 15
+    },
+    {
+      "id": "geo3",
+      "question": "What is the highest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "Mountains",
+      "points": 10
+    },
+    {
+      "id": "geo4",
+      "question": "Which continent is the Sahara Desert located on?",
+      "options": ["Asia", "Africa", "Australia", "Europe"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "Deserts",
+      "points": 5
+    },
+    {
+      "id": "geo5",
+      "question": "Which country has the most islands?",
+      "options": ["Indonesia", "Canada", "Sweden", "Philippines"],
+      "correctAnswer": 2,
+      "category": "Geography",
+      "difficulty": "Medium",
+      "topic": "Countries",
+      "points": 10
+    },
+    {
+      "id": "geo6",
+      "question": "Which U.S. state is the Grand Canyon located in?",
+      "options": ["Arizona", "Nevada", "Utah", "Colorado"],
+      "correctAnswer": 0,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "Landmarks",
+      "points": 5
+    },
+    {
+      "id": "geo7",
+      "question": "What is the name of the line that divides the Earth into Northern and Southern Hemispheres?",
+      "options": [
+        "Prime Meridian",
+        "Equator",
+        "Tropic of Cancer",
+        "Tropic of Capricorn"
+      ],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "Hemispheres",
+      "points": 5
+    },
+    {
+      "id": "geo8",
+      "question": "Which ocean surrounds the Maldives?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correctAnswer": 0,
+      "category": "Geography",
+      "difficulty": "Medium",
+      "topic": "Oceans",
+      "points": 10
+    },
+    {
+      "id": "geo9",
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara", "Arctic", "Gobi", "Antarctica"],
+      "correctAnswer": 3,
+      "category": "Geography",
+      "difficulty": "Medium",
+      "topic": "Deserts",
+      "points": 15
+    },
+    {
+      "id": "geo10",
+      "question": "Which European city is known as the 'City of Canals'?",
+      "options": ["Amsterdam", "Venice", "Bruges", "Hamburg"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Medium",
+      "topic": "Cities",
+      "points": 15
+    },
+    {
+      "id": "geo11",
+      "question": "What is the name of the sea bordered by Jordan, Israel, and Palestine?",
+      "options": ["Red Sea", "Dead Sea", "Mediterranean Sea", "Black Sea"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "Seas",
+      "points": 10
+    },
+    {
+      "id": "geo12",
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "Liechtenstein", "San Marino"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "Countries",
+      "points": 5
+    },
+    {
+      "id": "geo13",
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": ["Brazil", "South Africa", "Australia", "Mexico"],
+      "correctAnswer": 2,
+      "category": "Geography",
+      "difficulty": "Easy",
+      "topic": "Landmarks",
+      "points": 5
+    },
+    {
+      "id": "geo14",
+      "question": "Which African country is known as the 'Pearl of Africa'?",
+      "options": ["Kenya", "Uganda", "Nigeria", "Ghana"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Medium",
+      "topic": "Countries",
+      "points": 15
+    },
+    {
+      "id": "geo15",
+      "question": "What is the capital city of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "correctAnswer": 1,
+      "category": "Geography",
+      "difficulty": "Medium",
+      "topic": "World Capitals",
+      "points": 10
+    },
+    {
+      "id": "sci1",
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Biology",
+      "points": 10
+    },
+    {
+      "id": "sci2",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Pb", "Fe"],
+      "correctAnswer": 0,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Chemistry",
+      "points": 10
+    },
+    {
+      "id": "sci3",
+      "question": "What is the speed of light in a vacuum?",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "450,000 km/s",
+        "600,000 km/s"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "difficulty": "Medium",
+      "topic": "Physics",
+      "points": 15
+    },
+    {
+      "id": "sci4",
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Atmosphere",
+      "points": 10
+    },
+    {
+      "id": "sci5",
+      "question": "What is the basic unit of life?",
+      "options": ["Atom", "Molecule", "Cell", "Organ"],
+      "correctAnswer": 2,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Biology",
+      "points": 10
+    },
+    {
+      "id": "sci6",
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Mars", "Uranus"],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Medium",
+      "topic": "Astronomy",
+      "points": 15
+    },
+    {
+      "id": "sci7",
+      "question": "What is H2O commonly known as?",
+      "options": ["Hydrogen Peroxide", "Water", "Oxygen", "Salt"],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Chemistry",
+      "points": 5
+    },
+    {
+      "id": "sci8",
+      "question": "What does DNA stand for?",
+      "options": [
+        "Deoxyribonucleic Acid",
+        "Dioxygen Nucleic Acid",
+        "Dinitrogen Acid",
+        "Diphosphate Nucleic Acid"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "difficulty": "Medium",
+      "topic": "Biology",
+      "points": 15
+    },
+    {
+      "id": "sci9",
+      "question": "Which organ in the human body is responsible for filtering blood?",
+      "options": ["Heart", "Kidneys", "Liver", "Lungs"],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Medium",
+      "topic": "Human Anatomy",
+      "points": 10
+    },
+    {
+      "id": "sci10",
+      "question": "What type of bond involves the sharing of electrons?",
+      "options": [
+        "Ionic Bond",
+        "Covalent Bond",
+        "Hydrogen Bond",
+        "Metallic Bond"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Medium",
+      "topic": "Chemistry",
+      "points": 10
+    },
+    {
+      "id": "sci11",
+      "question": "What is the primary function of chlorophyll in plants?",
+      "options": [
+        "Absorb sunlight for photosynthesis",
+        "Provide structure to leaves",
+        "Transport nutrients",
+        "Repel pests"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "difficulty": "Medium",
+      "topic": "Biology",
+      "points": 15
+    },
+    {
+      "id": "sci12",
+      "question": "What is the atomic number of carbon?",
+      "options": ["6", "12", "8", "4"],
+      "correctAnswer": 0,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Periodic Table",
+      "points": 10
+    },
+    {
+      "id": "sci13",
+      "question": "What is the name of the galaxy we live in?",
+      "options": ["Andromeda", "Milky Way", "Triangulum", "Sombrero"],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Astronomy",
+      "points": 5
+    },
+    {
+      "id": "sci14",
+      "question": "What is the pH value of pure water?",
+      "options": ["7", "6", "8", "5"],
+      "correctAnswer": 0,
+      "category": "Science",
+      "difficulty": "Easy",
+      "topic": "Chemistry",
+      "points": 5
+    },
+    {
+      "id": "sci15",
+      "question": "Who proposed the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Galileo Galilei"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "difficulty": "Medium",
+      "topic": "Physics",
+      "points": 15
+    },
+    {
+      "id": "hist1",
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams",
+        "Abraham Lincoln"
+      ],
+      "correctAnswer": 0,
+      "category": "History",
+      "difficulty": "Easy",
+      "topic": "American History",
+      "points": 10
+    },
+    {
+      "id": "hist2",
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1939", "1918", "1940"],
+      "correctAnswer": 0,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "World Wars",
+      "points": 15
+    },
+    {
+      "id": "hist3",
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": [
+        "Greek Empire",
+        "Roman Empire",
+        "Ottoman Empire",
+        "Mongol Empire"
+      ],
+      "correctAnswer": 1,
+      "category": "History",
+      "difficulty": "Easy",
+      "topic": "Ancient History",
+      "points": 10
+    },
+    {
+      "id": "hist4",
+      "question": "Who was known as the 'Iron Lady'?",
+      "options": [
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Queen Elizabeth I",
+        "Angela Merkel"
+      ],
+      "correctAnswer": 0,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "Modern History",
+      "points": 15
+    },
+    {
+      "id": "hist5",
+      "question": "What was the primary cause of the American Civil War?",
+      "options": ["Taxes", "Slavery", "Territorial Expansion", "Religion"],
+      "correctAnswer": 1,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "American History",
+      "points": 10
+    },
+    {
+      "id": "hist6",
+      "question": "Who was the first emperor of China?",
+      "options": ["Sun Tzu", "Qin Shi Huang", "Confucius", "Kublai Khan"],
+      "correctAnswer": 1,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "Asian History",
+      "points": 15
+    },
+    {
+      "id": "hist7",
+      "question": "The Renaissance began in which country?",
+      "options": ["France", "Italy", "England", "Germany"],
+      "correctAnswer": 1,
+      "category": "History",
+      "difficulty": "Easy",
+      "topic": "Cultural History",
+      "points": 10
+    },
+    {
+      "id": "hist8",
+      "question": "What year did the Berlin Wall fall?",
+      "options": ["1989", "1991", "1987", "1993"],
+      "correctAnswer": 0,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "Modern History",
+      "points": 15
+    },
+    {
+      "id": "hist9",
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "options": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Nikita Khrushchev",
+        "Mikhail Gorbachev"
+      ],
+      "correctAnswer": 1,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "World Wars",
+      "points": 10
+    },
+    {
+      "id": "hist10",
+      "question": "What event started World War I?",
+      "options": [
+        "The assassination of Archduke Franz Ferdinand",
+        "The invasion of Poland",
+        "The sinking of the Lusitania",
+        "The signing of the Treaty of Versailles"
+      ],
+      "correctAnswer": 0,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "World Wars",
+      "points": 15
+    },
+    {
+      "id": "hist11",
+      "question": "Who was the last Tsar of Russia?",
+      "options": [
+        "Peter the Great",
+        "Alexander II",
+        "Nicholas II",
+        "Ivan the Terrible"
+      ],
+      "correctAnswer": 2,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "Russian History",
+      "points": 15
+    },
+    {
+      "id": "hist12",
+      "question": "The Great Pyramid of Giza was built during which civilization?",
+      "options": ["Greek", "Roman", "Egyptian", "Mesopotamian"],
+      "correctAnswer": 2,
+      "category": "History",
+      "difficulty": "Easy",
+      "topic": "Ancient History",
+      "points": 10
+    },
+    {
+      "id": "hist13",
+      "question": "What was the name of the ship that carried the Pilgrims to America?",
+      "options": ["Mayflower", "Santa Maria", "HMS Victory", "Endeavour"],
+      "correctAnswer": 0,
+      "category": "History",
+      "difficulty": "Easy",
+      "topic": "American History",
+      "points": 10
+    },
+    {
+      "id": "hist14",
+      "question": "Who led the Indian independence movement against British rule?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 1,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "Asian History",
+      "points": 15
+    },
+    {
+      "id": "hist15",
+      "question": "Which treaty ended World War I?",
+      "options": [
+        "Treaty of Paris",
+        "Treaty of Versailles",
+        "Treaty of Tordesillas",
+        "Treaty of Ghent"
+      ],
+      "correctAnswer": 1,
+      "category": "History",
+      "difficulty": "Medium",
+      "topic": "World Wars",
+      "points": 15
+    },
+    {
+      "id": "math1",
+      "question": "What is the square root of 49?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 1,
+      "category": "Mathematics",
+      "difficulty": "Easy",
+      "topic": "Basic Arithmetic",
+      "points": 10
+    },
+    {
+      "id": "math2",
+      "question": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "correctAnswer": 1,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Percentages",
+      "points": 15
+    },
+    {
+      "id": "math3",
+      "question": "What is the value of pi to two decimal places?",
+      "options": ["3.14", "2.71", "1.41", "3.33"],
+      "correctAnswer": 0,
+      "category": "Mathematics",
+      "difficulty": "Easy",
+      "topic": "Constants",
+      "points": 10
+    },
+    {
+      "id": "math4",
+      "question": "What is the solution to the equation 2x + 5 = 15?",
+      "options": ["5", "7", "10", "12"],
+      "correctAnswer": 0,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Algebra",
+      "points": 15
+    },
+    {
+      "id": "math5",
+      "question": "What is the area of a circle with a radius of 7 units?",
+      "options": [
+        "49π square units",
+        "14π square units",
+        "28π square units",
+        "21π square units"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Geometry",
+      "points": 15
+    },
+    {
+      "id": "math6",
+      "question": "What is 8 times 9?",
+      "options": ["63", "72", "81", "90"],
+      "correctAnswer": 1,
+      "category": "Mathematics",
+      "difficulty": "Easy",
+      "topic": "Multiplication",
+      "points": 5
+    },
+    {
+      "id": "math7",
+      "question": "What is the derivative of x²?",
+      "options": ["2x", "x²", "x", "2x²"],
+      "correctAnswer": 0,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Calculus",
+      "points": 15
+    },
+    {
+      "id": "math8",
+      "question": "What is the largest prime number less than 20?",
+      "options": ["17", "19", "13", "23"],
+      "correctAnswer": 1,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Number Theory",
+      "points": 15
+    },
+    {
+      "id": "math9",
+      "question": "What is 7 cubed?",
+      "options": ["343", "49", "512", "729"],
+      "correctAnswer": 0,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Powers",
+      "points": 10
+    },
+    {
+      "id": "math10",
+      "question": "What is the hypotenuse of a right triangle with legs of length 3 and 4?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 0,
+      "category": "Mathematics",
+      "difficulty": "Easy",
+      "topic": "Pythagorean Theorem",
+      "points": 10
+    },
+    {
+      "id": "math11",
+      "question": "What is the value of 0 factorial (0!)?",
+      "options": ["0", "1", "Undefined", "-1"],
+      "correctAnswer": 1,
+      "category": "Mathematics",
+      "difficulty": "Easy",
+      "topic": "Factorials",
+      "points": 5
+    },
+    {
+      "id": "math12",
+      "question": "Which of these is not a prime number?",
+      "options": ["11", "17", "21", "13"],
+      "correctAnswer": 2,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Number Theory",
+      "points": 10
+    },
+    {
+      "id": "math13",
+      "question": "What is the sum of the angles in a triangle?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctAnswer": 1,
+      "category": "Mathematics",
+      "difficulty": "Easy",
+      "topic": "Geometry",
+      "points": 10
+    },
+    {
+      "id": "math14",
+      "question": "Solve: 4x = 16. What is x?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 2,
+      "category": "Mathematics",
+      "difficulty": "Easy",
+      "topic": "Equations",
+      "points": 5
+    },
+    {
+      "id": "math15",
+      "question": "What is the median of the numbers 3, 7, 9, 15, and 20?",
+      "options": ["7", "9", "15", "11"],
+      "correctAnswer": 1,
+      "category": "Mathematics",
+      "difficulty": "Medium",
+      "topic": "Statistics",
+      "points": 10
+    },
+    {
+      "id": "tech1",
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Unit",
+        "Computer Processing Unit",
+        "Central Performance Unit"
+      ],
+      "correctAnswer": 0,
+      "category": "Technology",
+      "difficulty": "Easy",
+      "topic": "Hardware",
+      "points": 10
+    },
+    {
+      "id": "tech2",
+      "question": "Who is known as the father of the computer?",
+      "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+      "correctAnswer": 1,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "History of Computers",
+      "points": 15
+    },
+    {
+      "id": "tech3",
+      "question": "What is the binary representation of the decimal number 5?",
+      "options": ["101", "110", "111", "100"],
+      "correctAnswer": 0,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "Binary Numbers",
+      "points": 10
+    },
+    {
+      "id": "tech4",
+      "question": "Which programming language is primarily used for Android app development?",
+      "options": ["Java", "Swift", "C#", "Python"],
+      "correctAnswer": 0,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "Programming",
+      "points": 15
+    },
+    {
+      "id": "tech5",
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "HyperTransfer Markup Language",
+        "HighText Machine Language",
+        "HyperTech Markup Language"
+      ],
+      "correctAnswer": 0,
+      "category": "Technology",
+      "difficulty": "Easy",
+      "topic": "Web Development",
+      "points": 10
+    },
+    {
+      "id": "tech6",
+      "question": "Which company developed the Windows operating system?",
+      "options": ["Apple", "Google", "Microsoft", "IBM"],
+      "correctAnswer": 2,
+      "category": "Technology",
+      "difficulty": "Easy",
+      "topic": "Operating Systems",
+      "points": 5
+    },
+    {
+      "id": "tech7",
+      "question": "What is the function of a router in networking?",
+      "options": [
+        "Stores data",
+        "Connects multiple networks",
+        "Secures network connections",
+        "Manages user accounts"
+      ],
+      "correctAnswer": 1,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "Networking",
+      "points": 15
+    },
+    {
+      "id": "tech8",
+      "question": "Which programming language is considered the backbone of the web?",
+      "options": ["Python", "C++", "JavaScript", "Ruby"],
+      "correctAnswer": 2,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "Web Development",
+      "points": 10
+    },
+    {
+      "id": "tech9",
+      "question": "What is the full form of AI?",
+      "options": [
+        "Artificial Integration",
+        "Automated Intelligence",
+        "Artificial Intelligence",
+        "Automated Integration"
+      ],
+      "correctAnswer": 2,
+      "category": "Technology",
+      "difficulty": "Easy",
+      "topic": "Artificial Intelligence",
+      "points": 5
+    },
+    {
+      "id": "tech10",
+      "question": "Which company owns the Android operating system?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "correctAnswer": 2,
+      "category": "Technology",
+      "difficulty": "Easy",
+      "topic": "Mobile Platforms",
+      "points": 10
+    },
+    {
+      "id": "tech11",
+      "question": "What is an example of a high-level programming language?",
+      "options": ["Assembly", "C", "Machine Code", "Binary"],
+      "correctAnswer": 1,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "Programming",
+      "points": 15
+    },
+    {
+      "id": "tech12",
+      "question": "Which cloud platform is developed by Amazon?",
+      "options": ["Azure", "AWS", "Google Cloud", "IBM Cloud"],
+      "correctAnswer": 1,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "Cloud Computing",
+      "points": 15
+    },
+    {
+      "id": "tech13",
+      "question": "What does IoT stand for?",
+      "options": [
+        "Internet of Things",
+        "Integration of Technology",
+        "Internet of Technology",
+        "Innovation of Things"
+      ],
+      "correctAnswer": 0,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "IoT",
+      "points": 15
+    },
+    {
+      "id": "tech14",
+      "question": "Which company developed the Python programming language?",
+      "options": [
+        "Microsoft",
+        "Google",
+        "Python Software Foundation",
+        "None of the above"
+      ],
+      "correctAnswer": 3,
+      "category": "Technology",
+      "difficulty": "Medium",
+      "topic": "Programming",
+      "points": 15
+    },
+    {
+      "id": "tech15",
+      "question": "What is the purpose of an IP address?",
+      "options": [
+        "To store files",
+        "To identify devices on a network",
+        "To manage software updates",
+        "To measure internet speed"
+      ],
+      "correctAnswer": 1,
+      "category": "Technology",
+      "difficulty": "Easy",
+      "topic": "Networking",
+      "points": 10
+    }
+  ]
+}
