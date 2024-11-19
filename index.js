@@ -149,6 +149,40 @@ app.get('/generate-random', (req, res) => {
   res.json(randomQuestions);
 });
 
+app.get('/generate-random/:diff', (req, res) => {
+  const diff = req.params.diff.toLowerCase().trim(); // Get difficulty from route parameter
+
+  // Filter questions based on the difficulty level
+  const filteredQuestions = quizzes.filter(
+    (q) => q.difficulty.toLowerCase() === diff
+  );
+
+  if (filteredQuestions.length === 0) {
+    return res
+      .status(404)
+      .json({
+        error: 'No questions found for the specified difficulty level.',
+      });
+  }
+
+  const randomQuestions = [];
+  const usedIndices = new Set();
+
+  // Ensure up to 10 unique random questions are selected from the filtered list
+  while (
+    randomQuestions.length < 10 &&
+    randomQuestions.length < filteredQuestions.length
+  ) {
+    const randomIndex = Math.floor(Math.random() * filteredQuestions.length);
+    if (!usedIndices.has(randomIndex)) {
+      randomQuestions.push(filteredQuestions[randomIndex]);
+      usedIndices.add(randomIndex);
+    }
+  }
+
+  res.json(randomQuestions);
+});
+
 app.use((req, res) => {
   res
     .status(404)
